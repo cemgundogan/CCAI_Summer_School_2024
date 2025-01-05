@@ -1,2 +1,2 @@
 # CCAI Summer School 2024
-Climate Change Summer School 2024 - tutorials
+Climate Change Summer School 2024 - Tutorials
